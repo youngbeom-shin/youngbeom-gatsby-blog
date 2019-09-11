@@ -12,5 +12,8 @@
   "workspaces": [
     "@narative/gatsby-theme-novela",
     "www"
-  ]
+  ],
+  "dependencies": {
+    "contentful": "^7.9.1"
+  }
 }
