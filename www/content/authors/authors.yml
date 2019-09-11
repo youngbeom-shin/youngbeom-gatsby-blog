@@ -1,0 +1,58 @@
+- name: youngbeom
+  bio: |
+    基督徒 职业设计师 热爱这个世界 做着一些有趣的事情 
+  avatar: ./avatars/youngbeom.jpg
+  featured: true
+  social:
+    - url: https://twitter.com/ShinYoungboom
+    - url: https://github.com/youngbeom-shin
+    - url: https://www.instagram.com/youngbeom_shin
+    - url: https://www.weibo.com/youngbeom
+
+- name: Dennis Brotzky
+  bio: |
+    Written by You. This is where your author bio lives. Share your work, your
+    joys and of course, your Twitter handle.
+  avatar: ./avatars/dennis-brotzky.jpg
+  social:
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+
+- name: Thiago Costa
+  bio: |
+    Written by You. This is where your author bio lives. Share your work, your
+    joys and of course, your Twitter handle.
+  avatar: ./avatars/thiago-costa.jpg
+  social:
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+
+- name: Brad Tiller
+  bio: |
+    Written by You. This is where your author bio lives. Share your work, your
+    joys and of course, your Twitter handle.
+  avatar: ./avatars/brad-tiller.jpg
+  social:
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+
+- name: Mack Mansouri
+  bio: |
+    Written by You. This is where your author bio lives. Share your work, your
+    joys and of course, your Twitter handle.
+  avatar: ./avatars/mack-mansouri.jpg
+  social:
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
